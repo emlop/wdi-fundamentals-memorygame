@@ -33,6 +33,7 @@ body h2 {
 	width: 50%;
 	display: inline-block;
 }
+
 .card {
 	height: 200px;
 	width: 150px;
@@ -42,6 +43,16 @@ body h2 {
 	float: left;
 	margin: 8%;
 }
+
+.card img {
+	height: 200px;
+	width: 150px;
+	border: 1px solid black;
+	border-radius: 10px;
+	float: left;
+	margin: 0%;
+}
+
 footer {
 	background-color: #808080;
 }
